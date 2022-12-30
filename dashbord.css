@@ -1,0 +1,12 @@
+body {
+    font-family: 'Rosario', sans-serif;
+}
+navbar {
+    position: fixed;
+}
+.navbar-brand {
+    color: white;
+}
+.nav-link {
+    color: white;
+}

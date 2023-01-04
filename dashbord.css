@@ -1,5 +1,6 @@
 body {
     font-family: 'Rosario', sans-serif;
+    color: #fff;
     
 }
 navbar {
@@ -28,4 +29,24 @@ navbar {
 }
 .activeside {
     color: black;
+}
+.main {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: white;
+}
+.page-header {
+    color: black;
+}
+.placeholders {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+}
+.placeholder img {
+    display: inline;
+}
+.one {
+    color: black;
+    text-align: center;
 }
